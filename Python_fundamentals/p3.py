@@ -9,7 +9,7 @@ print("Total bill is: ",total_bill)
 print("Average price is: ",avg_price)
 
 name= input("Enter a superhero name: ")
-print(name[0]=='S' or name[0]=='s')  # check for presence at starting position
+print(name[0]=='S' or name[0]=='s')  # check for presence at starting position 
 
 
 
