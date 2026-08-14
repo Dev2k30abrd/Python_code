@@ -1,4 +1,4 @@
-#sum program => a,b => sum
+#sum program => a,b => sum.  
 a=int(input("Enter an integer number: "))
 b=float(input("Enter a decimal number: "))
 
