@@ -22,3 +22,9 @@ for i in range(1,num+1):
     i+=1
 print(p)
 
+
+#reverse a string 
+s=input("Enter a string: ")
+reverse_s= s[::-1]
+print(reverse_s)
+
