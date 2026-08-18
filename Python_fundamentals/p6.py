@@ -14,4 +14,4 @@ for i in range(2,1000):
     if(a%i==0 and b%i==0):
         print(i)
         i+=1
-        break
+        break       
