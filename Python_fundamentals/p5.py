@@ -27,4 +27,5 @@ print(p)
 s=input("Enter a string: ")
 reverse_s= s[::-1]
 print(reverse_s)
+    
 
